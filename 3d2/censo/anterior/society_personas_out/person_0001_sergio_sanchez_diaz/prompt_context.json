@@ -1,0 +1,125 @@
+{
+  "source_person": {
+    "id": "person_0001",
+    "full_name": "Sergio Sánchez Díaz",
+    "first_name": "Sergio",
+    "surname_1": "Sánchez",
+    "surname_2": "Díaz",
+    "gender": "male",
+    "age": 46,
+    "role": "adult",
+    "house_id": "house_001",
+    "school_id": null,
+    "highschool_id": null,
+    "university_id": null,
+    "workplace_id": "workplace_04"
+  },
+  "social_context": {
+    "persona_central": {
+      "id": "person_0001",
+      "nombre": "Sergio Sánchez Díaz",
+      "sexo": "male",
+      "edad": 46,
+      "rol": "adult",
+      "casa": "house_001",
+      "trabajo": "workplace_04",
+      "colegio": null,
+      "instituto": null,
+      "universidad": null
+    },
+    "pareja": [
+      "María Ramírez Ramos"
+    ],
+    "padres": [],
+    "hijos": [],
+    "hermanos": [],
+    "amigos": [
+      "Adrián Calvo Martínez",
+      "Daniel Castro Gómez",
+      "Nuria Gutiérrez Blanco",
+      "Salvador Herrera Molina",
+      "Francisco Ortiz Castillo",
+      "Iván Serrano Morales"
+    ],
+    "convivientes": [
+      "María Ramírez Ramos"
+    ],
+    "personas_importantes": [
+      {
+        "id": "person_0002",
+        "nombre": "María Ramírez Ramos",
+        "tipo_relacion": "partner",
+        "edad": 42,
+        "genero": "female",
+        "descripcion": "María Ramírez Ramos (mujer, 42 años, adulto), residente en house_001, vinculado a workplace_02"
+      },
+      {
+        "id": "person_0182",
+        "nombre": "Adrián Calvo Martínez",
+        "tipo_relacion": "friend",
+        "edad": 46,
+        "genero": "male",
+        "descripcion": "Adrián Calvo Martínez (hombre, 46 años, adulto), residente en house_063, vinculado a workplace_04"
+      },
+      {
+        "id": "person_0024",
+        "nombre": "Daniel Castro Gómez",
+        "tipo_relacion": "friend",
+        "edad": 47,
+        "genero": "male",
+        "descripcion": "Daniel Castro Gómez (hombre, 47 años, adulto), residente en house_008, vinculado a workplace_04"
+      },
+      {
+        "id": "person_0134",
+        "nombre": "Francisco Ortiz Castillo",
+        "tipo_relacion": "friend",
+        "edad": 40,
+        "genero": "male",
+        "descripcion": "Francisco Ortiz Castillo (hombre, 40 años, adulto), residente en house_046, vinculado a workplace_04"
+      },
+      {
+        "id": "person_0171",
+        "nombre": "Iván Serrano Morales",
+        "tipo_relacion": "friend",
+        "edad": 48,
+        "genero": "male",
+        "descripcion": "Iván Serrano Morales (hombre, 48 años, adulto), residente en house_060, vinculado a workplace_04"
+      },
+      {
+        "id": "person_0092",
+        "nombre": "Nuria Gutiérrez Blanco",
+        "tipo_relacion": "friend",
+        "edad": 51,
+        "genero": "female",
+        "descripcion": "Nuria Gutiérrez Blanco (mujer, 51 años, adulto), residente en house_031, vinculado a workplace_04"
+      },
+      {
+        "id": "person_0129",
+        "nombre": "Salvador Herrera Molina",
+        "tipo_relacion": "friend",
+        "edad": 43,
+        "genero": "male",
+        "descripcion": "Salvador Herrera Molina (hombre, 43 años, adulto), residente en house_045, vinculado a workplace_04"
+      }
+    ],
+    "entorno_principal": {
+      "tipo": "trabajo",
+      "id": "workplace_04",
+      "companeros": [
+        "Daniel Castro Gómez (hombre, 47 años, adulto), residente en house_008, vinculado a workplace_04",
+        "Mario Castillo Ruiz (hombre, 32 años, adulto), residente en house_015, vinculado a workplace_04",
+        "Olga Muñoz Garrido (mujer, 26 años, adulto), residente en house_020, vinculado a workplace_04",
+        "Jorge Díaz Castro (hombre, 27 años, adulto), residente en house_030, vinculado a workplace_04",
+        "Nuria Gutiérrez Blanco (mujer, 51 años, adulto), residente en house_031, vinculado a workplace_04",
+        "Francisco Rubio Gil (hombre, 38 años, adulto), residente en house_032, vinculado a workplace_04",
+        "Cristina Reyes Castro (mujer, 27 años, adulto), residente en house_042, vinculado a workplace_04",
+        "Salvador Herrera Molina (hombre, 43 años, adulto), residente en house_045, vinculado a workplace_04",
+        "Francisco Ortiz Castillo (hombre, 40 años, adulto), residente en house_046, vinculado a workplace_04",
+        "Claudia Serrano Prieto (mujer, 36 años, adulto), residente en house_048, vinculado a workplace_04",
+        "David Calvo Blanco (hombre, 61 años, adulto), residente en house_049, vinculado a workplace_04",
+        "Iván Serrano Morales (hombre, 48 años, adulto), residente en house_060, vinculado a workplace_04",
+        "Adrián Calvo Martínez (hombre, 46 años, adulto), residente en house_063, vinculado a workplace_04"
+      ]
+    }
+  }
+}
